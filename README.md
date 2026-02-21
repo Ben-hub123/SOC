@@ -1,4 +1,4 @@
-```markdown
+
 # 🥘 Digital Forensic Investigation: The Stolen Szechuan Sauce
 
 ## 🔍 Overview
